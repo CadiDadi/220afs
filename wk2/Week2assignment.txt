@@ -1,0 +1,9 @@
+Purpose
+This assignment will help you learn project management skills using Jira.
+
+Getting Started
+In your Week 2 folder, create a folder called ‘week 2 project’ for this assignment.
+Continue working on Jira application and complete the following steps.
+Creation of user stories
+Release and sprint planning
+Sprint Execution
